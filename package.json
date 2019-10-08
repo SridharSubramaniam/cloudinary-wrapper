@@ -1,0 +1,22 @@
+{
+  "name": "cloudinary-wrapper",
+  "version": "1.0.0",
+  "description": "Cloudinary Wrapper",
+  "main": "js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1"
+  },
+  "dependencies": {
+    "lightning-container": "^1.0.0"
+  }
+}
